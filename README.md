@@ -11,7 +11,7 @@ Currently completing an MCA at Periyar University, Salem. **Open to full-time
 roles and internships** in backend, full stack and applied AI.
 
 [Portfolio](https://mohammedmajeedportfolio.me) ·
-[LinkedIn](https://www.linkedin.com/in/mohammed-majeed-a337842a4) ·
+[LinkedIn](https://www.linkedin.com/in/majeed74905) ·
 [Email](mailto:majeed74905@gmail.com)
 
 ---
@@ -92,4 +92,4 @@ quietly three hours later.
 
 📫 **majeed74905@gmail.com** · Salem, Tamil Nadu, India
 
-[phd]: http://research.periyaruniversity.ac.in/rnd-app/student-app/home
+[phd]: http://research.periyaruniversity.ac.in/rnd-app/student-app/
